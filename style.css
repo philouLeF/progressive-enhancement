@@ -1,0 +1,72 @@
+body {
+    max-width: 90%;
+    margin:auto;
+    background: radial-gradient(rgb(22, 135, 237), rgb(20, 55, 90));;
+    background-image: url(https://ihdwall.com/storage/202103/minimalist-background-twilight-breeze-hd-wallpaper-1920x1080.jpg);
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-size: cover;
+}
+
+header > p {
+    background-color: yellow;
+}
+
+blockquote {
+    max-width: 50%;
+    margin: auto;
+    font-size: 160%;
+    background-color: grey;
+    border-left: 3px solid firebrick;
+    padding: 30px;
+    margin: 80px 0 80px 0;
+    font-style: italic;
+}
+
+p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    word-spacing: 5px;
+    color: midnightblue;
+    font-size: larger;
+}
+
+a {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a:hover {
+    color: white;
+    background-color: slateblue;
+    padding: 1px;
+    border-radius: 7px;
+}
+
+a:visited {
+    color: darkgray;
+}
+
+.villagers {
+    border-left: 2px solid brown;
+    padding: 3px;
+}
+
+.farmer {
+    border-left: 2px solid skyblue;
+    padding: 3px;
+}
+
+.bad {
+    color: red;
+}
+
+.good {
+    color: green;
+}
+
+.white {
+    background-color: white;
+}
+
+.grey {
+    background-color: grey;
+}
